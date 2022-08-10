@@ -6,7 +6,7 @@ This crate is fork of [serde_bytes](https://github.com/serde-rs/bytes). The only
 
 ```toml
 [dependencies]
-serde_bytes = "0.12.1"
+cs_serde_bytes = "0.12.1"
 ```
 
 ## Explanation
