@@ -1,4 +1,4 @@
-[![Latest Version](https://img.shields.io/crates/v/cs_serde_bytes.svg)](https://crates.io/crates/cs_serde_bytes)
+ # cs\_serde\_bytes [![Build Status](https://img.shields.io/github/workflow/status/chainsafe/serde-bytes/CI/bytesonlyde)](https://github.com/chainsafe/serde-bytes/actions?query=branch%3Abytesonlyde) [![Latest Version](https://img.shields.io/crates/v/cs_serde_bytes.svg)](https://crates.io/crates/cs_serde_bytes)
 
 ## Disclaimer
 This crate is fork of [serde_bytes](https://github.com/serde-rs/bytes). The only differrence from the upstream is intentional no support for strings as bytes, making it more strict.
